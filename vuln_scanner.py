@@ -2,7 +2,7 @@
 # vuln_scanner.py ver 1.0
 
 from rich.console import Console
-
+import click
 import scanner
 
 c = Console()
